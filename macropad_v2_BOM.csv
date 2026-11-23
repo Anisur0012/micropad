@@ -1,0 +1,30 @@
+Qty needed,Refs,Part,Pick,Buy qty (incl. spares),Unit,Unit price (USD),Line total (USD),Price source
+1,PCB,PCB 2-layer 1.6mm,JLCPCB ENIG matte black (min order 5),1,pack of 5,25.00,25.00,Estimate
+1,U1,Controller,Sea-Picro or Elite-Pi (RP2040 Pro Micro CE),1,each,17.00,17.00,Estimate
+2,U1,Pin headers,12-pin 2.54mm male,2,each,0.5,1.00,Estimate
+16,SW1-SW16,Hot-swap sockets,Kailh PG151101S11,1,pack of 100,10.00,10.00,Divinikey
+16,D1-D16,Diodes,1N4148 DO-35 (Vishay/onsemi),20,each,0.1,2.00,Estimate
+16,-,Switches,Gateron Oil King V2 (linear),2,pack of 10,6.50,13.00,Milktooth
+16,-,Keycaps,GMK or thick PBT 1u,1,set,45.00,45.00,Estimate
+1,-,Switch plate,Aluminium laser-cut 1.5mm,1,each,20.00,20.00,Estimate
+1,-,Case,CNC aluminium (or 3D print ~$3),1,each,60.00,60.00,Estimate
+4,H1-H4,Screws,Stainless M2 x 6mm,1,pack,3.00,3.00,Estimate
+4,-,Heat-set inserts,M2 brass (printed case only),1,pack,3.00,3.00,Estimate
+4,-,Feet,10mm silicone bumpons,1,pack,2.00,2.00,Estimate
+1,-,USB cable,Good USB-C cable,1,each,10.00,10.00,Estimate
+1,J1,Qwiic connector,JST SH SM04B-SRSS-TB,2,each,0.6,1.20,Estimate
+2,R1-R2,Resistors,4.7k 0805,5,each,0.05,0.25,Estimate
+2,-,Qwiic cables,100mm JST SH 4-pin,2,each,1.00,2.00,Estimate
+1,J2,OLED display,0.91in SSD1306 128x32 I2C (GND VCC SCL SDA),1,each,5.99,5.99,Tindie (ICStation)
+1,J2,Female header,4-pin 2.54mm,1,each,0.5,0.50,Estimate
+1,SW17,Rotary encoder,Alps EC11E18244AU with push switch,1,each,4.49,4.49,DigiKey
+1,-,Encoder knob,Aluminium 6mm D-shaft,1,each,4.00,4.00,Estimate
+1,J3,TRRS jack,PJ-320D,2,each,0.5,1.00,Estimate
+1,-,TRRS cable,3.5mm 4-pole,1,each,4.00,4.00,Estimate
+16,LED1-LED16,RGB LEDs,SK6812MINI-E,20,each,0.0853,1.71,LCSC (5+ price)
+17,C1-C17,Capacitors,100nF 0805,20,each,0.02,0.40,Estimate
+1,C18,Capacitor,10uF 1206,2,each,0.1,0.20,Estimate
+1,U2,Level shifter,74AHCT1G125 SOT-23-5,2,each,0.3,0.60,Estimate
+1,R3,Resistor,330R 0805,5,each,0.05,0.25,Estimate
+
+,,"TOTAL (parts only, excl. shipping/taxes/import duty)",,,,,237.59,
