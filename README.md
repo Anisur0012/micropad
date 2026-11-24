@@ -23,6 +23,7 @@ A 16-key hot-swap macropad built around an RP2040 Pro Micro. It has per-key RGB,
 |---|---|
 | `kicad/` | KiCad 9 project: schematic, routed PCB, project symbol library |
 | `kicad/*.gbr`, `kicad/macropad-job.gbrjob` | Gerber files for fabrication (copper, mask, paste, silkscreen, edge cuts) |
+| `Cad/macropad_assembly.step` | 3D assembly of the board, plate and case (STEP) |
 | `docs/` | `schematic.pdf`, `pcb_front.png`, `pcb_back_mirrored.png` |
 | `macropad_v2_firmware/firmware_source/` | QMK keyboard source (`handwired/macropad4x4v2`) |
 | `macropad_v2_firmware/*.uf2` | Prebuilt firmware: `default` and `via` keymaps |
